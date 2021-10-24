@@ -1,0 +1,3 @@
+PASS = -1
+PREVIEW = 0
+GAME = 1
